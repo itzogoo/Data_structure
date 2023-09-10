@@ -1,0 +1,21 @@
+STEP ONE: Problem: Algorithm that fulfills the following description:
+[i] sum
+
+STEP TWO: Solution
+
+STEP THREE: - create variables to hold
+    sum, set 1 and set 2
+
+STEP FOUR: -Read set 1 elements
+
+STEP FIVE: -Check if set 1 element is not present in set 2
+
+STEP SIX: -If true add the element to sum
+
+STEP SEVEN: -Read set 2
+
+STEP EIGHT: -Check if element in set 2 is not in set 1
+
+STEP NINE: -If TRUE add the element to sum
+
+STEP TEN: -Print sum
