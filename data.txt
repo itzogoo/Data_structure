@@ -6,9 +6,9 @@ STEP TWO: Solution
 STEP THREE: - create variables to hold
     sum, set 1 and set 2
 
-STEP FOUR: -Read set 1 elements
+STEP FOUR: -Read set 1 elements.
 
-STEP FIVE: -Check if set 1 element is not present in set 2
+STEP FIVE: -Check if set 1 element is not present in set 2 element
 
 STEP SIX: -If true add the element to sum
 
